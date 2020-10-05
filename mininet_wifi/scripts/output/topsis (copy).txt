@@ -1,0 +1,11 @@
+{"time":"0.521183013916", "sta":"sta4", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap3', 'ap4']", "battery":"100", "position": "[126.0, 110.0, 0.0]"}
+{"time":"0.446796417236", "sta":"sta6", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"100", "position": "[126.0, 180.0, 0.0]"}
+{"time":"0.423908233643", "sta":"sta7", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"100", "position": "[111.0, 170.0, 0.0]"}
+{"time":"0.457048416138", "sta":"sta3", "oldAp":"", "newAp":"ap4", "apsInRange":"['ap1', 'ap4']", "battery":"100", "position": "[51.0, 125.0, 0.0]"}
+{"time":"0.627994537354", "sta":"sta1", "oldAp":"ap1", "newAp":"ap2", "apsInRange":"['ap1', 'ap2']", "battery":"80.7", "position": "[78.0, 174.0, 0.0]"}
+{"time":"0.679016113281", "sta":"sta1", "oldAp":"ap2", "newAp":"ap3", "apsInRange":"['ap1', 'ap2', 'ap3']", "battery":"76.268", "position": "[93.0, 151.0, 0.0]"}
+{"time":"0.535011291504", "sta":"sta1", "oldAp":"", "newAp":"ap1", "apsInRange":"['ap1', 'ap2']", "battery":"71.867", "position": "[83.0, 155.0, 0.0]"}
+{"time":"0.494956970215", "sta":"sta1", "oldAp":"ap1", "newAp":"ap2", "apsInRange":"['ap1', 'ap2']", "battery":"64.528", "position": "[88.0, 166.0, 0.0]"}
+{"time":"0.526189804077", "sta":"sta1", "oldAp":"ap2", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"62.796", "position": "[99.0, 159.0, 0.0]"}
+{"time":"0.566005706787", "sta":"sta1", "oldAp":"ap2", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"41.772", "position": "[109.0, 167.0, 0.0]"}
+{"time":"0.894069671631", "sta":"sta1", "oldAp":"ap3", "newAp":"ap2", "apsInRange":"['ap2', 'ap3']", "battery":"37.692", "position": "[97.0, 179.0, 0.0]"}

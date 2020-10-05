@@ -1,0 +1,84 @@
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"3.662109375","sta":"sta5", "oldAp":"ap1", "newAp":"ap2", "apsInRange":"['ap1', 'ap2']", "battery":"100", "position": "(78.4, 160.0, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"3.662109375","sta":"sta6", "oldAp":"ap1", "newAp":"ap2", "apsInRange":"['ap1', 'ap2']", "battery":"100", "position": "(78.4, 160.0, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"3.662109375","sta":"sta7", "oldAp":"ap1", "newAp":"ap2", "apsInRange":"['ap1', 'ap2']", "battery":"100", "position": "(78.4, 160.0, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"3.662109375","sta":"sta8", "oldAp":"ap1", "newAp":"ap2", "apsInRange":"['ap1', 'ap2']", "battery":"100", "position": "(78.0, 160.0, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"3.96490097046","sta":"sta1", "oldAp":"ap4", "newAp":"ap3", "apsInRange":"['ap4', 'ap2', 'ap3']", "battery":"100", "position": "(98.92, 144.19, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"3.96490097046","sta":"sta2", "oldAp":"ap4", "newAp":"ap3", "apsInRange":"['ap4', 'ap2', 'ap3']", "battery":"100", "position": "(98.92, 144.19, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"3.96490097046","sta":"sta3", "oldAp":"ap4", "newAp":"ap3", "apsInRange":"['ap4', 'ap2', 'ap3']", "battery":"100", "position": "(98.44, 143.83, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"3.96490097046","sta":"sta4", "oldAp":"ap4", "newAp":"ap3", "apsInRange":"['ap4', 'ap2', 'ap3']", "battery":"100", "position": "(98.44, 143.83, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"5.01680374146","sta":"sta1", "oldAp":"", "newAp":"ap4", "apsInRange":"['ap2', 'ap4', 'ap1']", "battery":"99.9", "position": "(87.71, 135.78, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"5.01680374146","sta":"sta2", "oldAp":"", "newAp":"ap4", "apsInRange":"['ap2', 'ap4', 'ap1']", "battery":"99.9", "position": "(87.71, 135.78, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"5.01680374146","sta":"sta3", "oldAp":"ap3", "newAp":"ap3", "apsInRange":"['ap2', 'ap4', 'ap1']", "battery":"99.9", "position": "(88.19, 136.14, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"5.01680374146","sta":"sta4", "oldAp":"ap3", "newAp":"ap3", "apsInRange":"['ap2', 'ap4', 'ap1']", "battery":"99.9", "position": "(88.19, 136.14, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"4.13799285889","sta":"sta5", "oldAp":"ap2", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"99.9", "position": "(133.2, 160.0, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"4.13799285889","sta":"sta6", "oldAp":"ap2", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"99.9", "position": "(133.2, 160.0, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"4.13799285889","sta":"sta7", "oldAp":"ap2", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"99.9", "position": "(133.2, 160.0, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"4.13799285889","sta":"sta8", "oldAp":"ap2", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"99.9", "position": "(133.2, 160.0, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"4.39190864563","sta":"sta5", "oldAp":"ap3", "newAp":"ap2", "apsInRange":"['ap3', 'ap2']", "battery":"99.8", "position": "(95.6, 160.0, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"4.39190864563","sta":"sta6", "oldAp":"ap3", "newAp":"ap2", "apsInRange":"['ap3', 'ap2']", "battery":"99.8", "position": "(95.6, 160.0, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"4.39190864563","sta":"sta7", "oldAp":"ap3", "newAp":"ap2", "apsInRange":"['ap3', 'ap2']", "battery":"99.8", "position": "(95.6, 160.0, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"4.39190864563","sta":"sta8", "oldAp":"ap3", "newAp":"ap2", "apsInRange":"['ap3', 'ap2']", "battery":"99.8", "position": "(96.0, 160.0, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"5.66291809082","sta":"sta5", "oldAp":"ap2", "newAp":"ap1", "apsInRange":"['ap2', 'ap1']", "battery":"99.7", "position": "(69.2, 160.0, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"5.66291809082","sta":"sta6", "oldAp":"ap2", "newAp":"ap1", "apsInRange":"['ap2', 'ap1']", "battery":"99.7", "position": "(69.2, 160.0, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"5.66291809082","sta":"sta7", "oldAp":"ap2", "newAp":"ap1", "apsInRange":"['ap2', 'ap1']", "battery":"99.7", "position": "(69.2, 160.0, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"5.66291809082","sta":"sta8", "oldAp":"ap2", "newAp":"ap1", "apsInRange":"['ap2', 'ap1']", "battery":"99.7", "position": "(69.6, 160.0, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"4.21404838562","sta":"sta1", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"99.8", "position": "(101.8, 146.35, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"4.21404838562","sta":"sta2", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"99.8", "position": "(101.8, 146.35, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"4.21404838562","sta":"sta3", "oldAp":"ap4", "newAp":"ap2", "apsInRange":"['ap2', 'ap3']", "battery":"99.8", "position": "(101.32, 145.99, 0.0)"}
+ac--info_group_2_fin del cambio
+ac--info_group_2_inicio del cambio el ap al que esta conectado ya no esta en rango
+{"time":"4.21404838562","sta":"sta4", "oldAp":"ap4", "newAp":"ap2", "apsInRange":"['ap2', 'ap3']", "battery":"99.8", "position": "(101.32, 145.99, 0.0)"}
+ac--info_group_2_fin del cambio

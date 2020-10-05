@@ -1,0 +1,1 @@
+station,aps,ap,rssi,num_sta,dist,cons_bat

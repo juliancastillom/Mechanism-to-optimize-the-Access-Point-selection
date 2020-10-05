@@ -1,0 +1,7 @@
+{"time":"1.16205215454", "sta":"sta4", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap3', 'ap4']", "battery":"100", "position": "[126.0, 110.0, 0.0]"}
+{"time":"1.10507011414", "sta":"sta6", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"100", "position": "[126.0, 180.0, 0.0]"}
+{"time":"1.31702423096", "sta":"sta7", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"100", "position": "[111.0, 170.0, 0.0]"}
+{"time":"1.09100341797", "sta":"sta3", "oldAp":"", "newAp":"ap1", "apsInRange":"['ap1', 'ap4']", "battery":"100", "position": "[51.0, 125.0, 0.0]"}
+{"time":"2.02202796936", "sta":"sta1", "oldAp":"ap4", "newAp":"ap3", "apsInRange":"['ap4', 'ap2', 'ap3']", "battery":"87.6", "position": "[99.4, 144.55, 0.0]"}
+{"time":"3.33309173584", "sta":"sta1", "oldAp":"ap3", "newAp":"ap4", "apsInRange":"['ap2', 'ap3', 'ap4', 'ap1']", "battery":"76.9", "position": "[89.64, 137.23, 0.0]"}
+{"time":"2.20513343811", "sta":"sta1", "oldAp":"ap4", "newAp":"ap3", "apsInRange":"['ap4', 'ap2', 'ap3']", "battery":"54.1", "position": "[99.4, 144.55, 0.0]"}

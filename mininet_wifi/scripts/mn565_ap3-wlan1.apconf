@@ -1,0 +1,10 @@
+interface=ap3-wlan1
+driver=nl80211
+ssid=ap3-ssid
+wds_sta=1
+hw_mode=g
+channel=11
+wmm_enabled=1
+ieee80211n=1
+ctrl_interface=/var/run/hostapd
+ctrl_interface_group=0

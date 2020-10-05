@@ -1,0 +1,40 @@
+{"time":"19.5097923279","sta":"sta4", "oldAp":"", "newAp":"ap4", "apsInRange":"['ap3', 'ap4']", "battery":"100", "position": "[126.0, 110.0, 0.0]"}
+{"time":"35.6290340424","sta":"sta6", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"100", "position": "[126.0, 180.0, 0.0]"}
+{"time":"37.7681255341","sta":"sta7", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"100", "position": "[111.0, 170.0, 0.0]"}
+{"time":"49.8900413513","sta":"sta3", "oldAp":"", "newAp":"ap1", "apsInRange":"['ap1', 'ap4']", "battery":"100", "position": "[51.0, 125.0, 0.0]"}
+{"time":"37.3740196228","sta":"sta2", "oldAp":"ap1", "newAp":"ap4", "apsInRange":"['ap1', 'ap4', 'ap2']", "battery":"95.7", "position": "[68.0, 142.0, 0.0]"}
+{"time":"37.5809669495","sta":"sta2", "oldAp":"", "newAp":"ap1", "apsInRange":"['ap1', 'ap2']", "battery":"89.914", "position": "[68.0, 146.0, 0.0]"}
+{"time":"39.6928787231","sta":"sta2", "oldAp":"ap1", "newAp":"ap4", "apsInRange":"['ap1', 'ap2', 'ap4']", "battery":"83.068", "position": "[86.0, 146.0, 0.0]"}
+{"time":"39.7510528564","sta":"sta2", "oldAp":"ap4", "newAp":"ap1", "apsInRange":"['ap1', 'ap2', 'ap4', 'ap3']", "battery":"77.346", "position": "[88.0, 144.0, 0.0]"}
+{"time":"37.6789569855","sta":"sta2", "oldAp":"ap1", "newAp":"ap4", "apsInRange":"['ap1', 'ap2', 'ap4']", "battery":"73.498", "position": "[84.0, 142.0, 0.0]"}
+{"time":"23.6170291901","sta":"sta2", "oldAp":"ap4", "newAp":"ap1", "apsInRange":"['ap1', 'ap2', 'ap4']", "battery":"68.151", "position": "[83.0, 143.0, 0.0]"}
+{"time":"37.917137146","sta":"sta1", "oldAp":"ap4", "newAp":"ap3", "apsInRange":"['ap4', 'ap1', 'ap2', 'ap3']", "battery":"88.7", "position": "[94.13, 140.6, 0.0]"}
+{"time":"42.7629947662","sta":"sta2", "oldAp":"ap1", "newAp":"ap2", "apsInRange":"['ap1', 'ap2']", "battery":"55.375", "position": "[78.0, 174.0, 0.0]"}
+{"time":"44.1119670868","sta":"sta2", "oldAp":"ap2", "newAp":"ap1", "apsInRange":"['ap1', 'ap2']", "battery":"53.843", "position": "[75.0, 175.0, 0.0]"}
+{"time":"36.2210273743","sta":"sta2", "oldAp":"ap1", "newAp":"ap2", "apsInRange":"['ap1', 'ap2']", "battery":"50.177", "position": "[82.0, 180.0, 0.0]"}
+{"time":"22.54986763","sta":"sta2", "oldAp":"ap2", "newAp":"ap1", "apsInRange":"['ap1', 'ap2', 'ap3']", "battery":"48.077", "position": "[90.0, 166.0, 0.0]"}
+{"time":"50.3370761871","sta":"sta2", "oldAp":"ap1", "newAp":"ap3", "apsInRange":"['ap1', 'ap2', 'ap3']", "battery":"43.662", "position": "[88.0, 162.0, 0.0]"}
+{"time":"20.2238559723","sta":"sta1", "oldAp":"ap3", "newAp":"ap4", "apsInRange":"['ap2', 'ap3', 'ap4']", "battery":"74.895", "position": "[97.83, 143.37, 0.0]"}
+{"time":"37.6329421997","sta":"sta2", "oldAp":"", "newAp":"ap1", "apsInRange":"['ap1', 'ap2']", "battery":"38.798", "position": "[85.0, 157.0, 0.0]"}
+{"time":"39.5419597626","sta":"sta1", "oldAp":"ap4", "newAp":"ap3", "apsInRange":"['ap2', 'ap3', 'ap4', 'ap1']", "battery":"68.914", "position": "[94.94, 141.2, 0.0]"}
+{"time":"25.7740020752","sta":"sta2", "oldAp":"ap1", "newAp":"ap2", "apsInRange":"['ap1', 'ap2', 'ap3']", "battery":"34.027", "position": "[91.0, 155.0, 0.0]"}
+{"time":"46.0681915283","sta":"sta1", "oldAp":"ap3", "newAp":"ap4", "apsInRange":"['ap2', 'ap3', 'ap4', 'ap1']", "battery":"64.302", "position": "[90.6, 137.95, 0.0]"}
+{"time":"37.4660491943","sta":"sta2", "oldAp":"ap2", "newAp":"ap1", "apsInRange":"['ap1', 'ap2']", "battery":"31.327", "position": "[83.0, 155.0, 0.0]"}
+{"time":"38.763999939","sta":"sta1", "oldAp":"ap4", "newAp":"ap3", "apsInRange":"['ap2', 'ap3', 'ap4', 'ap1']", "battery":"59.307", "position": "[89.64, 137.23, 0.0]"}
+{"time":"38.4111404419","sta":"sta1", "oldAp":"ap3", "newAp":"ap4", "apsInRange":"['ap2', 'ap3', 'ap4', 'ap1']", "battery":"54.678", "position": "[88.19, 136.14, 0.0]"}
+{"time":"40.8539772034","sta":"sta2", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"23.788", "position": "[99.0, 161.0, 0.0]"}
+{"time":"37.3570919037","sta":"sta2", "oldAp":"ap3", "newAp":"ap4", "apsInRange":"['ap2', 'ap3', 'ap4']", "battery":"17.004", "position": "[107.0, 143.0, 0.0]"}
+{"time":"44.0940856934","sta":"sta2", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"10.168", "position": "[114.0, 144.0, 0.0]"}
+{"time":"47.8129386902","sta":"sta2", "oldAp":"ap3", "newAp":"ap4", "apsInRange":"['ap2', 'ap3', 'ap4']", "battery":"8.065", "position": "[115.0, 141.0, 0.0]"}
+{"time":"32.1130752563","sta":"sta2", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"1.729", "position": "[116.0, 144.0, 0.0]"}
+{"time":"43.0669784546","sta":"sta2", "oldAp":"ap3", "newAp":"ap4", "apsInRange":"['ap2', 'ap3', 'ap4']", "battery":"-0.387", "position": "[117.0, 139.0, 0.0]"}
+{"time":"38.0120277405","sta":"sta2", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"-6.034", "position": "[120.0, 140.0, 0.0]"}
+{"time":"41.0840511322","sta":"sta2", "oldAp":"ap3", "newAp":"ap4", "apsInRange":"['ap3', 'ap4']", "battery":"-8.021", "position": "[119.0, 137.0, 0.0]"}
+{"time":"40.552854538","sta":"sta2", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap3', 'ap2']", "battery":"-13.692", "position": "[121.0, 141.0, 0.0]"}
+{"time":"38.6769771576","sta":"sta1", "oldAp":"ap4", "newAp":"ap3", "apsInRange":"['ap4', 'ap1', 'ap2', 'ap3']", "battery":"28.755", "position": "[94.13, 140.6, 0.0]"}
+{"time":"40.8380031586","sta":"sta2", "oldAp":"ap2", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"-25.637", "position": "[105.0, 169.0, 0.0]"}
+{"time":"21.8460559845","sta":"sta2", "oldAp":"ap3", "newAp":"ap2", "apsInRange":"['ap2', 'ap3']", "battery":"-30.057", "position": "[99.0, 177.0, 0.0]"}
+{"time":"26.2608528137","sta":"sta2", "oldAp":"ap2", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"-32.211", "position": "[107.0, 179.0, 0.0]"}
+{"time":"41.002035141","sta":"sta2", "oldAp":"ap2", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"-38.275", "position": "[96.0, 164.0, 0.0]"}
+{"time":"37.9621982574","sta":"sta2", "oldAp":"ap3", "newAp":"ap2", "apsInRange":"['ap2', 'ap3']", "battery":"-42.145", "position": "[95.0, 167.0, 0.0]"}
+{"time":"36.0019207001","sta":"sta2", "oldAp":"ap2", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"-43.705", "position": "[99.0, 167.0, 0.0]"}

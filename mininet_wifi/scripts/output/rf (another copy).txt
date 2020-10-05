@@ -1,0 +1,15 @@
+{"time":"10.8070373535","sta":"sta7", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"100", "position": "[111.0, 170.0, 0.0]"}
+{"time":"10.5950832367","sta":"sta3", "oldAp":"", "newAp":"ap1", "apsInRange":"['ap1', 'ap4']", "battery":"100", "position": "[51.0, 125.0, 0.0]"}
+{"time":"11.3708972931","sta":"sta2", "oldAp":"ap1", "newAp":"ap4", "apsInRange":"['ap1', 'ap4', 'ap2']", "battery":"95.8", "position": "[65.0, 139.0, 0.0]"}
+{"time":"10.6480121613","sta":"sta2", "oldAp":"", "newAp":"ap1", "apsInRange":"['ap1', 'ap2']", "battery":"90.053", "position": "[68.0, 146.0, 0.0]"}
+{"time":"8.92305374146","sta":"sta1", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"87.0", "position": "[102.28, 146.71, 0.0]"}
+{"time":"10.6930732727","sta":"sta2", "oldAp":"ap1", "newAp":"ap2", "apsInRange":"['ap1', 'ap2', 'ap3']", "battery":"71.907", "position": "[90.0, 166.0, 0.0]"}
+{"time":"17.4400806427","sta":"sta1", "oldAp":"ap3", "newAp":"ap4", "apsInRange":"['ap2', 'ap3', 'ap4', 'ap1']", "battery":"75.209", "position": "[94.94, 141.2, 0.0]"}
+{"time":"12.1219158173","sta":"sta1", "oldAp":"ap4", "newAp":"ap1", "apsInRange":"['ap2', 'ap3', 'ap4', 'ap1']", "battery":"68.674", "position": "[88.19, 136.14, 0.0]"}
+{"time":"11.4588737488","sta":"sta2", "oldAp":"ap2", "newAp":"ap1", "apsInRange":"['ap1', 'ap2']", "battery":"67.003", "position": "[79.0, 159.0, 0.0]"}
+{"time":"8.69798660278","sta":"sta2", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"60.262", "position": "[102.0, 152.0, 0.0]"}
+{"time":"5.99312782288","sta":"sta1", "oldAp":"ap1", "newAp":"ap4", "apsInRange":"['ap4', 'ap1']", "battery":"58.505", "position": "[58.31, 113.73, 0.0]"}
+{"time":"12.5639438629","sta":"sta1", "oldAp":"ap4", "newAp":"ap1", "apsInRange":"['ap4', 'ap1', 'ap2', 'ap3']", "battery":"40.566", "position": "[88.38, 136.29, 0.0]"}
+{"time":"10.4761123657","sta":"sta1", "oldAp":"ap1", "newAp":"ap4", "apsInRange":"['ap4', 'ap1', 'ap2', 'ap3']", "battery":"36.485", "position": "[88.86, 136.65, 0.0]"}
+{"time":"4.73499298096","sta":"sta1", "oldAp":"", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"29.015", "position": "[102.28, 146.71, 0.0]"}
+{"time":"11.1517906189","sta":"sta2", "oldAp":"ap2", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"35.755", "position": "[95.0, 167.0, 0.0]"}

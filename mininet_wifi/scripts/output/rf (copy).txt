@@ -1,0 +1,22 @@
+{"sta":"sta7", "oldAp":"['']", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"100", "position": "[111.0, 170.0, 0.0]"}
+{"sta":"sta3", "oldAp":"['']", "newAp":"ap1", "apsInRange":"['ap1', 'ap4']", "battery":"100", "position": "[51.0, 125.0, 0.0]"}
+{"sta":"sta6", "oldAp":"['']", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"100", "position": "[126.0, 180.0, 0.0]"}
+{"sta":"sta2", "oldAp":"['']", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"99.9", "position": "[124.0, 150.0, 0.0]"}
+{"sta":"sta3", "oldAp":"[<OVSAP ap1: lo:127.0.0.1,ap1-wlan1:None,ap1-eth2:None pid=26562> ]", "newAp":"ap4", "apsInRange":"['ap1', 'ap4', 'ap2']", "battery":"97.4", "position": "[81.0, 139.0, 0.0]"}
+{"sta":"sta4", "oldAp":"['']", "newAp":"ap3", "apsInRange":"['ap3', 'ap2']", "battery":"99.9", "position": "[108.0, 160.0, 0.0]"}
+{"sta":"sta4", "oldAp":"['']", "newAp":"ap2", "apsInRange":"['ap2', 'ap1', 'ap3']", "battery":"95.592", "position": "[87.0, 157.0, 0.0]"}
+{"sta":"sta3", "oldAp":"['']", "newAp":"ap1", "apsInRange":"['ap1', 'ap2', 'ap4']", "battery":"90.299", "position": "[85.0, 145.0, 0.0]"}
+{"sta":"sta4", "oldAp":"[<OVSAP ap2: lo:127.0.0.1,ap2-wlan1:None,ap2-eth2:None pid=26568> ]", "newAp":"ap3", "apsInRange":"['ap2', 'ap1', 'ap3']", "battery":"90.357", "position": "[89.0, 149.0, 0.0]"}
+{"sta":"sta5", "oldAp":"['']", "newAp":"ap3", "apsInRange":"['ap2', 'ap3']", "battery":"95.1", "position": "[103.0, 147.0, 0.0]"}
+{"sta":"sta4", "oldAp":"['']", "newAp":"ap1", "apsInRange":"['ap2', 'ap1']", "battery":"85.956", "position": "[84.0, 152.0, 0.0]"}
+{"sta":"sta4", "oldAp":"[<OVSAP ap1: lo:127.0.0.1,ap1-wlan1:None,ap1-eth2:None pid=26562> ]", "newAp":"ap2", "apsInRange":"['ap2', 'ap1', 'ap3']", "battery":"82.45", "position": "[87.0, 147.0, 0.0]"}
+{"sta":"sta4", "oldAp":"[<OVSAP ap2: lo:127.0.0.1,ap2-wlan1:None,ap2-eth2:None pid=26568> ]", "newAp":"ap4", "apsInRange":"['ap2', 'ap1', 'ap3', 'ap4']", "battery":"79.026", "position": "[91.0, 145.0, 0.0]"}
+{"sta":"sta4", "oldAp":"['']", "newAp":"ap3", "apsInRange":"['ap2', 'ap1', 'ap3']", "battery":"73.326", "position": "[93.0, 147.0, 0.0]"}
+{"sta":"sta4", "oldAp":"[<OVSAP ap3: lo:127.0.0.1,ap3-wlan1:None,ap3-eth2:None pid=26574> ]", "newAp":"ap4", "apsInRange":"['ap2', 'ap1', 'ap3', 'ap4']", "battery":"69.414", "position": "[91.0, 145.0, 0.0]"}
+{"sta":"sta4", "oldAp":"[<OVSAP ap4: lo:127.0.0.1,ap4-wlan1:None,ap4-eth2:None pid=26580> ]", "newAp":"ap3", "apsInRange":"['ap2', 'ap1', 'ap3', 'ap4']", "battery":"63.814", "position": "[88.0, 146.0, 0.0]"}
+{"sta":"sta5", "oldAp":"[<OVSAP ap3: lo:127.0.0.1,ap3-wlan1:None,ap3-eth2:None pid=26574> ]", "newAp":"ap4", "apsInRange":"['ap2', 'ap3', 'ap4']", "battery":"91.484", "position": "[101.0, 135.0, 0.0]"}
+{"sta":"sta5", "oldAp":"['']", "newAp":"ap3", "apsInRange":"['ap3', 'ap2']", "battery":"84.774", "position": "[109.0, 145.0, 0.0]"}
+{"sta":"sta1", "oldAp":"[<OVSAP ap1: lo:127.0.0.1,ap1-wlan1:None,ap1-eth2:None pid=26562> ]", "newAp":"ap3", "apsInRange":"['ap1', 'ap2', 'ap4', 'ap3']", "battery":"90.4", "position": "[88.0, 144.0, 0.0]"}
+{"sta":"sta1", "oldAp":"['']", "newAp":"ap1", "apsInRange":"['ap1', 'ap2', 'ap4']", "battery":"85.958", "position": "[84.0, 142.0, 0.0]"}
+{"sta":"sta4", "oldAp":"[<OVSAP ap3: lo:127.0.0.1,ap3-wlan1:None,ap3-eth2:None pid=26574> ]", "newAp":"ap4", "apsInRange":"['ap3', 'ap4']", "battery":"54.495", "position": "[105.0, 115.0, 0.0]"}
+{"sta":"sta3", "oldAp":"['']", "newAp":"ap1", "apsInRange":"['ap2', 'ap1']", "battery":"77.962", "position": "[84.0, 148.0, 0.0]"}
